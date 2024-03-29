@@ -2,7 +2,7 @@ version: 0.2
 env:
   variables:
     ACCOUNT_ID: "582662663083"
-    REPO_NAME: "repoecr"
+    REPO_NAME: "port-ui-new"
     AWS_REGION: "us-east-1"
 phases: 
   install:
