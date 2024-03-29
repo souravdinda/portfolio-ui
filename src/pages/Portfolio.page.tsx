@@ -43,7 +43,7 @@ const PortfolioPage = forwardRef<HTMLDivElement, PortfolioPageProps>(
                 <PageBuilder
                     id="portfolio-page-content"
                     title="Portfolio"
-                    subtitle1="My Amaazing Works"
+                    subtitle1="My Amazing Works"
                     children={portfolioComponent}
                     isActive={isActive}
                 />
